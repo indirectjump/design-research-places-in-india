@@ -26,6 +26,7 @@ As much as possible, this list includes places that 'self identify' as a place f
 ## C
 
 ## D
+- [Deparment of Design, IIT Guwahati](https://www.iitg.ac.in/design)
 - [DesignBeku](http://designbeku.in)
 - [DesignIt](https://www.designit.com/services/capabilities/design-research)
 - [Divame](https://www.divami.com)
@@ -47,6 +48,7 @@ As much as possible, this list includes places that 'self identify' as a place f
 
 ## I 
 - [IBM Research](https://research.ibm.com/labs/india/)
+- [IDC, IIT Bombay](http://www.idc.iitb.ac.in/)
 - [Ideo Mumbai](http://www.ideo.com)
 - [Idiom Design](https://www.idiom.co.in)
 - [Incubis Consultants](https://incubis.net)
