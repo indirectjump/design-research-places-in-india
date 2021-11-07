@@ -16,7 +16,7 @@ Investigating Design: A Review of Forty Years of Design Research by Nigan Bayazi
 > (a) Design research is concerned with the physicial embodiment of human-made things, how these things perform their jobs, and how they work, (b) Design research is concerned with construction as a human activity, how designers work, how they think, and how they carry out design activity, (c) Design research is concerned with what is achieved at the end of a purposeful design activity, how an artificial thing appears, and what it means, (d) Design research is concerned with the embodiment of configurations, (e) Design research is a systematic search and acquisition of knowledge related to design and design activity.
 
 # Design Research Places in India
-A list of places in India that early researchers or design students may want to learn about. 
+As much as possible, this list includes places that 'self identify' as a place for design research. This is not exhaustive, but only a representative list of places in India that early researchers or design students may want to learn about.
 
 ## A
 - [Anagram Research](https://anagramresearch.com)
@@ -27,10 +27,14 @@ A list of places in India that early researchers or design students may want to 
 
 ## D
 - [DesignIt](https://www.designit.com/services/capabilities/design-research)
+- [Divame](https://www.divami.com)
 
 ## E
+- [Elephant](https://elephantdesign.com)
 
 ## F
+- [Fractal](https://fractal.ai)
+- [Frog Design](https://www.frogdesign.com)
 
 ## G
 - [Google Research](https://research.google)
@@ -40,6 +44,9 @@ A list of places in India that early researchers or design students may want to 
 
 ## I 
 - [IBM Research](https://research.ibm.com/labs/india/)
+- [Ideo Mumbai](http://www.ideo.com)
+- [Idiom Design](https://www.idiom.co.in)
+- [Incubis Consultants](https://incubis.net)
 
 ## J
 
@@ -53,9 +60,11 @@ A list of places in India that early researchers or design students may want to 
 - [Moonraft](https://moonraft.com)
 
 ## N
+- [NetBrahma](https://netbramha.com/)
 
 ## O
 - [Obvious](https://obvious.in)
+- [Onio](https://www.oniodesign.com)
 
 ## P
 - [Pattem Digital Studio](https://pattemdigital.com/ux-design-research/)
@@ -67,13 +76,15 @@ A list of places in India that early researchers or design students may want to 
 - 
 
 ## S
-- 
+- [Srishti Manipal Institute](http://srishtimanipalinstitute.in)
 
 ## T
+- [Think Design](https://think.design)
 - [Ticket Design](https://www.ticketdesign.com/design-research/)
+- [Turian Labs](https://www.turianlabs.com)
 
 ## U
-- 
+- [UserFacet](https://www.userfacet.com/)
 
 ## V
 
@@ -82,8 +93,10 @@ A list of places in India that early researchers or design students may want to 
 ## X
 
 ## Y 
+- [YUJ Designs](https://www.yujdesigns.com)
 
 ## Z
+- [Zeux Innovations](https://zeuxinnovation.com)
 
 # Appendix
 
