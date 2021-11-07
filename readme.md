@@ -90,7 +90,7 @@ As much as possible, this list includes places that 'self identify' as a place f
 - [Think Design](https://think.design)
 - [Ticket Design](https://www.ticketdesign.com/design-research/)
 - [Turian Labs](https://www.turianlabs.com)
-- [Tandem Research](https://tandemresearch.org)
+- [Tandem Research](https://tandemresearch.org) (Closed?)
 
 ## U
 - [UserFacet](https://www.userfacet.com/)
