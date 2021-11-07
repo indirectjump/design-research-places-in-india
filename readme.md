@@ -24,6 +24,7 @@ As much as possible, this list includes places that 'self identify' as a place f
 ## B
 
 ## C
+- [Crux Intelligence](https://cruxintelligence.com)
 
 ## D
 - [Department of Design, IIT Guwahati](https://www.iitg.ac.in/design)
