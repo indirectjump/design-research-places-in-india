@@ -1,5 +1,5 @@
 **Foreword.**
-Learning about more design students failing to find and secure design research positions in India, I have tried looking for places like design studios, institutions, research labs, or any other, where students or anyone else might want to look when starting their research. People likely have different connotations of 'Design Research' and possibly misunderstand in many cases too. This aims to crowdsource a list of places which newcomers may use as an initial list of places to pursue Design Research. But without labeling them with any tags, reviews, domains so it purely remains a crowdsourced list and not any authoritative one. Feel free to add ones that you may know.
+Learning that many design students failing to find and secure design research positions in India, I have tried looking for places like design studios, institutions, research labs, or any other, where students or anyone else might want to look when starting their research. People likely have different connotations of 'Design Research' and possibly misunderstand in many cases too. This aims to crowdsource a list of places which newcomers may use as an initial list of places to pursue Design Research. But without labeling them with any tags, reviews, domains so it purely remains a crowdsourced list and not any authoritative one. Feel free to add ones that you may know.
 
 Some snippets that I think that captures state-of-the-art shared understanding of 'Design Research'. _I will add more to this list over the time._
 
@@ -22,9 +22,11 @@ As much as possible, this list includes places that 'self identify' as a place f
 - [Anagram Research](https://anagramresearch.com)
 
 ## B
+- [Barefoot College International](https://www.barefootcollege.org)
 
 ## C
 - [Crux Intelligence](https://cruxintelligence.com)
+- [Centre for Internet & Society](https://cis-india.org)
 
 ## D
 - [D91 Labs](https://d91labs.org)
