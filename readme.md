@@ -38,6 +38,7 @@ As much as possible, this list includes places that 'self identify' as a place f
 - [Crux Intelligence](https://cruxintelligence.com)
 - [Centre for Internet & Society](https://cis-india.org)
 - [Centre for Policy Research](https://cprindia.org)
+- [CivicDataLab](https://civicdatalab.in/)
 
 ## D
 - [D91 Labs](https://d91labs.org)
@@ -150,4 +151,4 @@ As much as possible, this list includes places that 'self identify' as a place f
 # Appendix
 
 ## Contributors
-[0xf17](https://twitter.com/_0xf17), [Simran Singh](https://twitter.com/simraan98)_add-your-handle_
+[0xf17](https://twitter.com/_0xf17), [Simran Singh](https://twitter.com/simraan98), _add-your-handle_
