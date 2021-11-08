@@ -25,6 +25,7 @@ As much as possible, this list includes places that 'self identify' as a place f
 - [Barefoot College International](https://www.barefootcollege.org)
 
 ## C
+- [Centre de Sciences Humaines - Delhi](https://www.csh-delhi.com)
 - [Crux Intelligence](https://cruxintelligence.com)
 - [Centre for Internet & Society](https://cis-india.org)
 
