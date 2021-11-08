@@ -16,7 +16,7 @@ Investigating Design: A Review of Forty Years of Design Research by Nigan Bayazi
 > (a) Design research is concerned with the physicial embodiment of human-made things, how these things perform their jobs, and how they work, (b) Design research is concerned with construction as a human activity, how designers work, how they think, and how they carry out design activity, (c) Design research is concerned with what is achieved at the end of a purposeful design activity, how an artificial thing appears, and what it means, (d) Design research is concerned with the embodiment of configurations, (e) Design research is a systematic search and acquisition of knowledge related to design and design activity.
 
 # Design Research Places in India
-As much as possible, this list includes places that 'self identify' as a place for design research, or places that appear to be working in pertinent domains. This is not exhaustive, but only a representative list of places in India that early researchers or design students may want to learn about.
+As much as possible, this list includes places that 'self identify' as a place for design research, or places that appear to be working in similar areas. This is not exhaustive, but only a representative list of places in India that early researchers or design students may want to learn about.
 
 ## A
 - [Anagram Research](https://anagramresearch.com)
