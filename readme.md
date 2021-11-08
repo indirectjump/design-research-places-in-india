@@ -140,6 +140,4 @@ As much as possible, this list includes places that 'self identify' as a place f
 # Appendix
 
 ## Contributors
-Append your name to this list if you have made a contribution, feel free to link to your Twitter or any other public profile.
-
-[0xf17](https://twitter.com/_0xf17), [add-your-handle]()
+[0xf17](https://twitter.com/_0xf17), _add-your-handle_
