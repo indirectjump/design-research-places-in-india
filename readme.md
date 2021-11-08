@@ -27,6 +27,8 @@ As much as possible, this list includes places that 'self identify' as a place f
 - [Crux Intelligence](https://cruxintelligence.com)
 
 ## D
+- [D91 Labs](https://d91labs.org)
+- [Department of Design, IIT Delhi](https://design.iitd.ac.in)
 - [Department of Design, IIT Guwahati](https://www.iitg.ac.in/design)
 - [DesignBeku](http://designbeku.in)
 - [DesignIt](https://www.designit.com/services/capabilities/design-research)
@@ -45,6 +47,8 @@ As much as possible, this list includes places that 'self identify' as a place f
 - [Google Research](https://research.google)
 
 ## H
+- [HFI-India](https://humanfactors.com)
+- [HexoLabs](https://www.hexolabs.com)
 - [Hureo](https://hureo.com)
 
 ## I 
@@ -60,6 +64,7 @@ As much as possible, this list includes places that 'self identify' as a place f
 ## K
 
 ## L
+- [L'École de design - India studio](https://en.lecolededesign.com)
 - [Lollypop Design](https://www.lollypop.design)
 
 ## M
@@ -69,6 +74,7 @@ As much as possible, this list includes places that 'self identify' as a place f
 ## N
 - [NetBrahma](https://netbramha.com/)
 - [National Institute of Design](https://www.nid.edu/)
+- [National Design Centre](http://www.nationaldesigncentre.org)
 
 ## O
 - [Obvious](https://obvious.in)
@@ -85,8 +91,11 @@ As much as possible, this list includes places that 'self identify' as a place f
 
 ## S
 - [Srishti Manipal Institute](http://srishtimanipalinstitute.in)
+- [Symbiosis Insitute of Design](https://www.sid.edu.in)
 
 ## T
+- [The Design Village](https://thedesignvillage.org)
+- [The Hard Copy Co](https://thehardcopy.co)
 - [Think Design](https://think.design)
 - [Ticket Design](https://www.ticketdesign.com/design-research/)
 - [Turian Labs](https://www.turianlabs.com)
