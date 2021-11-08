@@ -48,6 +48,7 @@ As much as possible, this list includes places that 'self identify' as a place f
 - [Divame](https://www.divami.com)
 - [Design Incubator](http://www.designincubator.com)
 - [Dimagi](https://www.dimagi.com)
+- [DY Patil-DC](http://dypdc.com/index.php)
 
 ## E
 - [Elephant](https://elephantdesign.com)
