@@ -26,6 +26,8 @@ Some snippets that I think that captures state-of-the-art shared understanding o
 # Design Research Places in India
 As much as possible, this list includes places that 'self identify' as a place for design research, or places that appear to be working in similar areas. This is not exhaustive, but only a representative list of places in India that early researchers or design students may want to learn about.
 
+Note: Places marked with * are beyond India
+
 ## A
 - [Anagram Research](https://anagramresearch.com)
 
@@ -42,7 +44,7 @@ As much as possible, this list includes places that 'self identify' as a place f
 
 ## D
 - [D91 Labs](https://d91labs.org)
-- [Data&Society](https://datasociety.net/) *
+- [Data&Society](https://datasociety.net/)*
 - [Department of Design, IIT Delhi](https://design.iitd.ac.in)
 - [Department of Design, IIT Guwahati](https://www.iitg.ac.in/design)
 - [DesignBeku](http://designbeku.in)
@@ -99,14 +101,14 @@ As much as possible, this list includes places that 'self identify' as a place f
 - [Obvious](https://obvious.in)
 - [Onio](https://www.oniodesign.com)
 - [Omidyar Network](https://omidyar.com)
-- [Open Data Institute](https://theodi.org/about-the-odi/jobs/) *
-- [Open Systems Lab](https://www.opensystemslab.io/vision) *
-- [Open Technology Fund (OTF)](https://www.opentech.fund/labs/) *
+- [Open Data Institute](https://theodi.org/about-the-odi/jobs/)*
+- [Open Systems Lab](https://www.opensystemslab.io/vision)*
+- [Open Technology Fund (OTF)](https://www.opentech.fund/labs/)*
 
 ## P
 - [Pattem Digital Studio](https://pattemdigital.com/ux-design-research/)
-- [Pineapple Jazz](https://www.pineapplejazz.com/) *
-- [ProjectsByIF](https://www.projectsbyif.com/) *
+- [Pineapple Jazz](https://www.pineapplejazz.com/)*
+- [ProjectsByIF](https://www.projectsbyif.com/)*
 - [Prophecy](https://prophecy.one)
 
 ## Q
@@ -118,7 +120,7 @@ As much as possible, this list includes places that 'self identify' as a place f
 
 ## S
 - [Samsung R&D Institute - India](https://research.samsung.com/sri-b)
-- [Simply Secure](https://simplysecure.org/what-we-do/) *
+- [Simply Secure](https://simplysecure.org/what-we-do/)*
 - [Srishti Manipal Institute](http://srishtimanipalinstitute.in)
 - [Symbiosis Insitute of Design](https://www.sid.edu.in)
 
@@ -130,7 +132,7 @@ As much as possible, this list includes places that 'self identify' as a place f
 - [Ticket Design](https://www.ticketdesign.com/design-research/)
 - [Turian Labs](https://www.turianlabs.com)
 - [Tandem Research](https://tandemresearch.org) (Closed?)
-- [TTC Labs](https://www.ttclabs.net/research) * 
+- [TTC Labs](https://www.ttclabs.net/research)* 
 
 ## U
 - [UserFacet](https://www.userfacet.com/)
@@ -138,7 +140,7 @@ As much as possible, this list includes places that 'self identify' as a place f
 ## V
 
 ## W
-- [WikiHouse](https://www.wikihouse.cc/Contributors) *
+- [WikiHouse](https://www.wikihouse.cc/Contributors)*
 
 ## X
 
@@ -151,4 +153,4 @@ As much as possible, this list includes places that 'self identify' as a place f
 # Appendix
 
 ## Contributors
-[0xf17](https://twitter.com/_0xf17), [Simran Singh](https://twitter.com/simraan98), _add-your-handle_
+[0xf17](https://twitter.com/_0xf17), [Simran Singh](https://twitter.com/simraan98)
