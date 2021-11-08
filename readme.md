@@ -40,10 +40,11 @@ Note: Places marked with * are beyond India
 - [Crux Intelligence](https://cruxintelligence.com)
 - [Centre for Internet & Society](https://cis-india.org)
 - [Centre for Policy Research](https://cprindia.org)
+- [CivicDataLab](https://civicdatalab.in/)
 
 ## D
 - [D91 Labs](https://d91labs.org)
-- [Data&Society](https://datasociety.net/) *
+- [Data&Society](https://datasociety.net/)*
 - [Department of Design, IIT Delhi](https://design.iitd.ac.in)
 - [Department of Design, IIT Guwahati](https://www.iitg.ac.in/design)
 - [DesignBeku](http://designbeku.in)
@@ -100,14 +101,14 @@ Note: Places marked with * are beyond India
 - [Obvious](https://obvious.in)
 - [Onio](https://www.oniodesign.com)
 - [Omidyar Network](https://omidyar.com)
-- [Open Data Institute](https://theodi.org/about-the-odi/jobs/) *
-- [Open Systems Lab](https://www.opensystemslab.io/vision) *
-- [Open Technology Fund (OTF)](https://www.opentech.fund/labs/) *
+- [Open Data Institute](https://theodi.org/about-the-odi/jobs/)*
+- [Open Systems Lab](https://www.opensystemslab.io/vision)*
+- [Open Technology Fund (OTF)](https://www.opentech.fund/labs/)*
 
 ## P
 - [Pattem Digital Studio](https://pattemdigital.com/ux-design-research/)
-- [Pineapple Jazz](https://www.pineapplejazz.com/) *
-- [ProjectsByIF](https://www.projectsbyif.com/) *
+- [Pineapple Jazz](https://www.pineapplejazz.com/)*
+- [ProjectsByIF](https://www.projectsbyif.com/)*
 - [Prophecy](https://prophecy.one)
 
 ## Q
@@ -119,7 +120,7 @@ Note: Places marked with * are beyond India
 
 ## S
 - [Samsung R&D Institute - India](https://research.samsung.com/sri-b)
-- [Simply Secure](https://simplysecure.org/what-we-do/) *
+- [Simply Secure](https://simplysecure.org/what-we-do/)*
 - [Srishti Manipal Institute](http://srishtimanipalinstitute.in)
 - [Symbiosis Insitute of Design](https://www.sid.edu.in)
 
@@ -131,7 +132,7 @@ Note: Places marked with * are beyond India
 - [Ticket Design](https://www.ticketdesign.com/design-research/)
 - [Turian Labs](https://www.turianlabs.com)
 - [Tandem Research](https://tandemresearch.org) (Closed?)
-- [TTC Labs](https://www.ttclabs.net/research) * 
+- [TTC Labs](https://www.ttclabs.net/research)* 
 
 ## U
 - [UserFacet](https://www.userfacet.com/)
@@ -139,7 +140,7 @@ Note: Places marked with * are beyond India
 ## V
 
 ## W
-- [WikiHouse](https://www.wikihouse.cc/Contributors) *
+- [WikiHouse](https://www.wikihouse.cc/Contributors)*
 
 ## X
 
