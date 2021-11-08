@@ -26,6 +26,8 @@ Some snippets that I think that captures state-of-the-art shared understanding o
 # Design Research Places in India
 As much as possible, this list includes places that 'self identify' as a place for design research, or places that appear to be working in similar areas. This is not exhaustive, but only a representative list of places in India that early researchers or design students may want to learn about.
 
+Note: Places marked with * are beyond India
+
 ## A
 - [Anagram Research](https://anagramresearch.com)
 
@@ -150,4 +152,4 @@ As much as possible, this list includes places that 'self identify' as a place f
 # Appendix
 
 ## Contributors
-[0xf17](https://twitter.com/_0xf17), [Simran Singh](https://twitter.com/simraan98)_add-your-handle_
+[0xf17](https://twitter.com/_0xf17), [Simran Singh](https://twitter.com/simraan98)
