@@ -90,6 +90,7 @@ As much as possible, this list includes places that 'self identify' as a place f
 - 
 
 ## S
+- [Samsung R&D Institute - India](https://research.samsung.com/sri-b)
 - [Srishti Manipal Institute](http://srishtimanipalinstitute.in)
 - [Symbiosis Insitute of Design](https://www.sid.edu.in)
 
@@ -121,4 +122,4 @@ As much as possible, this list includes places that 'self identify' as a place f
 ## Contributors
 Append your name to this list if you have made a contribution, feel free to link to your Twitter or any other public profile.
 
-[0xf17](https://twitter.com/_0xf17), [add-your-handle](#)
+[0xf17](https://twitter.com/_0xf17), [add-your-handle]()
