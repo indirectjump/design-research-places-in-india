@@ -23,6 +23,7 @@ As much as possible, this list includes places that 'self identify' as a place f
 
 ## B
 - [Barefoot College International](https://www.barefootcollege.org)
+- [Bhoomi College](https://bhoomicollege.org)
 
 ## C
 - [Centre de Sciences Humaines - Delhi](https://www.csh-delhi.com)
@@ -61,6 +62,7 @@ As much as possible, this list includes places that 'self identify' as a place f
 - [Idiom Design](https://www.idiom.co.in)
 - [Incubis Consultants](https://incubis.net)
 - [Invent India](https://www.inventindia.com/)
+- [Internet Freedom Foundation](https://lnk.bio/internetfreedom/)
 
 ## J
 
@@ -85,6 +87,7 @@ As much as possible, this list includes places that 'self identify' as a place f
 
 ## P
 - [Pattem Digital Studio](https://pattemdigital.com/ux-design-research/)
+- [Prophecy](https://prophecy.one)
 
 ## Q
 - [Quicksand](http://quicksand.co.in)
