@@ -104,6 +104,7 @@ As much as possible, this list includes places that 'self identify' as a place f
 
 ## Q
 - [Quicksand](http://quicksand.co.in)
+- [Public Sapient](https://www.publicissapient.com)
 
 ## R
 - 
