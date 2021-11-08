@@ -51,6 +51,7 @@ As much as possible, this list includes places that 'self identify' as a place f
 
 ## G
 - [Google Research](https://research.google)
+- [Glocal Colab](https://www.glocalcolab.com)
 
 ## H
 - [HFI-India](https://humanfactors.com)
