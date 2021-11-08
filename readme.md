@@ -29,6 +29,7 @@ As much as possible, this list includes places that 'self identify' as a place f
 - [Centre de Sciences Humaines - Delhi](https://www.csh-delhi.com)
 - [Crux Intelligence](https://cruxintelligence.com)
 - [Centre for Internet & Society](https://cis-india.org)
+- [Centre for Policy Research](https://cprindia.org)
 
 ## D
 - [D91 Labs](https://d91labs.org)
@@ -38,6 +39,7 @@ As much as possible, this list includes places that 'self identify' as a place f
 - [DesignIt](https://www.designit.com/services/capabilities/design-research)
 - [Divame](https://www.divami.com)
 - [Design Incubator](http://www.designincubator.com)
+- [Dimagi](https://www.dimagi.com)
 
 ## E
 - [Elephant](https://elephantdesign.com)
@@ -84,6 +86,7 @@ As much as possible, this list includes places that 'self identify' as a place f
 ## O
 - [Obvious](https://obvious.in)
 - [Onio](https://www.oniodesign.com)
+- [Omidyar Network](https://omidyar.com)
 
 ## P
 - [Pattem Digital Studio](https://pattemdigital.com/ux-design-research/)
