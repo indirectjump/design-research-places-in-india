@@ -79,6 +79,7 @@ Note: Places marked with * are beyond India
 - [Incubis Consultants](https://incubis.net)
 - [Invent India](https://www.inventindia.com/)
 - [Internet Freedom Foundation](https://lnk.bio/internetfreedom/)
+- [IT for Change](https://itforchange.net)
 
 ## J
 
