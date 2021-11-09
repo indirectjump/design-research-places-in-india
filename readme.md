@@ -151,6 +151,8 @@ Note: Places marked with * are beyond India
 - [Zeux Innovations](https://zeuxinnovation.com)
 
 # Appendix
+## More resources
+- [Design and UX Research in India](https://www.notion.so/Design-UX-Research-in-India-3a9cef94b52e4f60b2e8aef0665ba349) by [Thomson M](https://twitter.com/thedigitalmonk)
 
 ## Contributors
 [0xf17](https://twitter.com/_0xf17), [Simran Singh](https://twitter.com/simraan98)
