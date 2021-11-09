@@ -24,7 +24,7 @@ Some snippets that I think that captures state-of-the-art shared understanding o
 </details>
 
 # Design Research Places in India
-As much as possible, this list includes places that 'self identify' as a place for design research, or places that appear to be working in similar areas. This is not exhaustive, but only a representative list of places in India that early researchers or design students may want to learn about.
+As much as possible, this list includes places that 'self identify' as a place for design research, or places that appear to be working in similar areas. This is not exhaustive, but only a representative list of places in India that early researchers or design students may want to learn about. The eventual goal is to prune this list of places more specifically for Design Research and filter it from places where research of different kind is pursued, or may not be the focus itself.
 
 Note: Places marked with * are beyond India
 
