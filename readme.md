@@ -76,6 +76,7 @@ Note: Places marked with * are beyond India
 - [HFI-India](https://humanfactors.com)
 - [HexoLabs](https://www.hexolabs.com)
 - [Hureo](https://hureo.com)
+- [Heinrich Böll Stiftung/ Heinrich Boell Foundation - New Delhi](https://in.boell.org/en)
 
 ## I 
 - [IBM Research](https://research.ibm.com/labs/india/)
@@ -132,6 +133,7 @@ Note: Places marked with * are beyond India
 - 
 
 ## S
+- [Sensing Local](https://www.sensinglocal.in)
 - [Samsung R&D Institute - India](https://research.samsung.com/sri-b)
 - [Simply Secure](https://simplysecure.org/what-we-do/)*
 - [Srishti Manipal Institute](http://srishtimanipalinstitute.in)
