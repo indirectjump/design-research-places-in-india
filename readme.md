@@ -44,6 +44,7 @@ Note: Places marked with * are beyond India
 
 ## D
 - [D91 Labs](https://d91labs.org)
+- [Dalberg Design](http://www.dalbergdesign.com)
 - [Data&Society](https://datasociety.net/)*
 - [Department of Design, IIT Delhi](https://design.iitd.ac.in)
 - [Department of Design, IIT Guwahati](https://www.iitg.ac.in/design)
@@ -51,16 +52,21 @@ Note: Places marked with * are beyond India
 - [DesignIt](https://www.designit.com/services/capabilities/design-research)
 - [Divame](https://www.divami.com)
 - [Design Incubator](http://www.designincubator.com)
+- [Design Directions](https://www.designdirections.net)
+- [Dvara Research](https://www.dvara.com/research/)
 - [Dimagi](https://www.dimagi.com)
 - [DY Patil-DC](http://dypdc.com/index.php)
+- [Dy Works](https://dyworks.in)
 
 ## E
 - [Elephant](https://elephantdesign.com)
 
 ## F
 - [Fractal](https://fractal.ai)
+- [FractalInk](https://www.fractalink.com)
 - [Frog Design](https://www.frogdesign.com)
 - [Futuring Design](https://futuring.design/)
+- [Fields of View](https://fieldsofview.in)
 
 ## G
 - [Google Research](https://research.google)
@@ -88,6 +94,7 @@ Note: Places marked with * are beyond India
 
 ## L
 - [L'École de design - India studio](https://en.lecolededesign.com)
+- [Leaf Design](https://leafdesign.in)
 - [Lollypop Design](https://www.lollypop.design)
 
 ## M
@@ -106,9 +113,13 @@ Note: Places marked with * are beyond India
 - [Open Data Institute](https://theodi.org/about-the-odi/jobs/)*
 - [Open Systems Lab](https://www.opensystemslab.io/vision)*
 - [Open Technology Fund (OTF)](https://www.opentech.fund/labs/)*
+- [Ooloi Labs](http://ooloilabs.in)
+- [Outdesign](https://www.outdesign.co)
+- [Opposite](https://oppositehq.com)
 
 ## P
 - [Pattem Digital Studio](https://pattemdigital.com/ux-design-research/)
+- [Pensaar Design](https://www.pensaardesign.com)
 - [Pineapple Jazz](https://www.pineapplejazz.com/)*
 - [ProjectsByIF](https://www.projectsbyif.com/)*
 - [Prophecy](https://prophecy.one)
@@ -125,9 +136,11 @@ Note: Places marked with * are beyond India
 - [Simply Secure](https://simplysecure.org/what-we-do/)*
 - [Srishti Manipal Institute](http://srishtimanipalinstitute.in)
 - [Symbiosis Insitute of Design](https://www.sid.edu.in)
-
+- [StudioABD](http://www.studioabd.in)
 
 ## T
+- [Tata Elxsi](https://www.tataelxsi.com)
+- [Tattle](https://tattle.co.in)
 - [The Design Village](https://thedesignvillage.org)
 - [The Hard Copy Co](https://thehardcopy.co)
 - [Think Design](https://think.design)
