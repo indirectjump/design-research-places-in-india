@@ -30,6 +30,7 @@ Note: Places marked with * are beyond India
 
 ## A
 - [Anagram Research](https://anagramresearch.com)
+- [Analogy Design](https://analogydesign.co)
 
 ## B
 - [Barefoot College International](https://www.barefootcollege.org)
