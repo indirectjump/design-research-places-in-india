@@ -97,6 +97,7 @@ Note: Places marked with * are beyond India
 - [L'École de design - India studio](https://en.lecolededesign.com)
 - [Leaf Design](https://leafdesign.in)
 - [Lollypop Design](https://www.lollypop.design)
+- [Lokus Design](https://www.lokusdesign.com)
 
 ## M
 - [Microsoft Research](https://www.microsoft.com/en-us/research/)
