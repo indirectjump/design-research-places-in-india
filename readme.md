@@ -175,4 +175,6 @@ Note: Places marked with * are beyond India
 - [Design and UX Research in India](https://www.notion.so/Design-UX-Research-in-India-3a9cef94b52e4f60b2e8aef0665ba349) by [Thomson M](https://twitter.com/thedigitalmonk)
 
 ## Contributors
+Append your name/link to this list.
+
 [0xf17](https://twitter.com/_0xf17), [Simran Singh](https://twitter.com/simraan98)
